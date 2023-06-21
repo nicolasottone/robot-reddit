@@ -1,6 +1,8 @@
 import { PrismaClient } from '@prisma/client'
 //install prisma client
 //init from your schema, see the documentation
+//run prisma generate
+//push the db to the cloud
 import 'server-only'
 
 declare global {
